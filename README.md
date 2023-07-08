@@ -1,1 +1,1 @@
-# craftcommon_weekend_session
+This is read me file. I have all the info about the repo.
